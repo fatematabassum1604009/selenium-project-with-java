@@ -9,8 +9,7 @@ This repository contains an example of how to build a selenium project with java
 
 ### Dependencies
 * selenium-java
-* *[testng](https://testng.org/)* 
-* *[extentreports](http://www.extentreports.com/)*
-* *[webdrivermanager](https://github.com/bonigarcia/webdrivermanager)* 
-* *[lombok](https://projectlombok.org/)*
+* webdrivermanager 
+* testng
+* allure-testng
 
