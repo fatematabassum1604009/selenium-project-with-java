@@ -1,0 +1,1055 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="33" passed="27" failed="3" skipped="3">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-07T10:42:57 BDT" name="Suite" finished-at="2023-06-07T10:49:03 BDT" duration-ms="365678">
+    <groups>
+    </groups>
+    <test started-at="2023-06-07T10:42:57 BDT" name="Test" finished-at="2023-06-07T10:49:03 BDT" duration-ms="365678">
+      <class name="testcases.HomePageTest">
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:testcases.HomePageTest@6b88ca8c]" started-at="2023-06-07T10:43:24 BDT" name="setBrowser" finished-at="2023-06-07T10:43:25 BDT" duration-ms="1174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="SearchItem()[pri:0, instance:testcases.HomePageTest@6b88ca8c]" started-at="2023-06-07T10:43:25 BDT" name="SearchItem" finished-at="2023-06-07T10:43:45 BDT" duration-ms="19690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchItem -->
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:testcases.HomePageTest@6b88ca8c]" started-at="2023-06-07T10:43:39 BDT" name="setBrowser" finished-at="2023-06-07T10:43:40 BDT" duration-ms="979" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="StoreLocator()[pri:0, instance:testcases.HomePageTest@6b88ca8c]" started-at="2023-06-07T10:43:40 BDT" name="StoreLocator" finished-at="2023-06-07T10:43:48 BDT" duration-ms="8686" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StoreLocator -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:testcases.HomePageTest@6b88ca8c]" started-at="2023-06-07T10:43:45 BDT" name="quitBrowser" finished-at="2023-06-07T10:43:45 BDT" duration-ms="184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:testcases.HomePageTest@6b88ca8c]" started-at="2023-06-07T10:43:45 BDT" name="setBrowser" finished-at="2023-06-07T10:43:46 BDT" duration-ms="896" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="logoValidate()[pri:0, instance:testcases.HomePageTest@6b88ca8c]" started-at="2023-06-07T10:43:46 BDT" name="logoValidate" finished-at="2023-06-07T10:43:53 BDT" duration-ms="7333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoValidate -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:testcases.HomePageTest@6b88ca8c]" started-at="2023-06-07T10:43:48 BDT" name="quitBrowser" finished-at="2023-06-07T10:43:48 BDT" duration-ms="179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:testcases.HomePageTest@6b88ca8c]" started-at="2023-06-07T10:43:48 BDT" name="setBrowser" finished-at="2023-06-07T10:43:49 BDT" duration-ms="935" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="scrollAndGoToAboutUs()[pri:0, instance:testcases.HomePageTest@6b88ca8c]" started-at="2023-06-07T10:43:49 BDT" name="scrollAndGoToAboutUs" finished-at="2023-06-07T10:44:01 BDT" duration-ms="11181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollAndGoToAboutUs -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:testcases.HomePageTest@6b88ca8c]" started-at="2023-06-07T10:43:53 BDT" name="quitBrowser" finished-at="2023-06-07T10:43:54 BDT" duration-ms="187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:testcases.HomePageTest@6b88ca8c]" started-at="2023-06-07T10:43:54 BDT" name="setBrowser" finished-at="2023-06-07T10:43:55 BDT" duration-ms="916" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="verifyTitle()[pri:0, instance:testcases.HomePageTest@6b88ca8c]" started-at="2023-06-07T10:43:55 BDT" name="verifyTitle" finished-at="2023-06-07T10:44:05 BDT" duration-ms="10846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:testcases.HomePageTest@6b88ca8c]" started-at="2023-06-07T10:44:01 BDT" name="quitBrowser" finished-at="2023-06-07T10:44:01 BDT" duration-ms="229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:testcases.HomePageTest@6b88ca8c]" started-at="2023-06-07T10:44:05 BDT" name="quitBrowser" finished-at="2023-06-07T10:44:06 BDT" duration-ms="248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- testcases.HomePageTest -->
+      <class name="testcases.AddToCartPageTest">
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:testcases.AddToCartPageTest@1c33c17b]" started-at="2023-06-07T10:42:57 BDT" name="setBrowser" finished-at="2023-06-07T10:42:59 BDT" duration-ms="2138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="addToCart()[pri:0, instance:testcases.AddToCartPageTest@1c33c17b]" started-at="2023-06-07T10:43:00 BDT" name="addToCart" description="add to cart test" finished-at="2023-06-07T10:43:11 BDT" duration-ms="11969" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:testcases.AddToCartPageTest@1c33c17b]" started-at="2023-06-07T10:43:11 BDT" name="quitBrowser" finished-at="2023-06-07T10:43:12 BDT" duration-ms="220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- testcases.AddToCartPageTest -->
+      <class name="testcases.FilterTest">
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:testcases.FilterTest@52c3cb31]" started-at="2023-06-07T10:44:26 BDT" name="setBrowser" finished-at="2023-06-07T10:44:27 BDT" duration-ms="1011" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="filterBrands()[pri:0, instance:testcases.FilterTest@52c3cb31]" started-at="2023-06-07T10:44:27 BDT" name="filterBrands" finished-at="2023-06-07T10:44:34 BDT" duration-ms="7073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filterBrands -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:testcases.FilterTest@52c3cb31]" started-at="2023-06-07T10:44:34 BDT" name="quitBrowser" finished-at="2023-06-07T10:44:34 BDT" duration-ms="244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:testcases.FilterTest@52c3cb31]" started-at="2023-06-07T10:44:34 BDT" name="setBrowser" finished-at="2023-06-07T10:44:35 BDT" duration-ms="952" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="scrollAndGoNextPage()[pri:0, instance:testcases.FilterTest@52c3cb31]" started-at="2023-06-07T10:44:35 BDT" name="scrollAndGoNextPage" finished-at="2023-06-07T10:44:41 BDT" duration-ms="5619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollAndGoNextPage -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:testcases.FilterTest@52c3cb31]" started-at="2023-06-07T10:44:41 BDT" name="quitBrowser" finished-at="2023-06-07T10:44:41 BDT" duration-ms="211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- testcases.FilterTest -->
+      <class name="testcases.SelectItemsFromMenuTest">
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:testcases.SelectItemsFromMenuTest@19e4fcac]" started-at="2023-06-07T10:44:13 BDT" name="setBrowser" finished-at="2023-06-07T10:44:14 BDT" duration-ms="1068" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="iPhone14ProMaxCasesTest()[pri:0, instance:testcases.SelectItemsFromMenuTest@19e4fcac]" started-at="2023-06-07T10:44:14 BDT" name="iPhone14ProMaxCasesTest" description="Select Items From Menu Test" finished-at="2023-06-07T10:44:26 BDT" duration-ms="11663" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iPhone14ProMaxCasesTest -->
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:testcases.SelectItemsFromMenuTest@19e4fcac]" started-at="2023-06-07T10:44:19 BDT" name="setBrowser" finished-at="2023-06-07T10:44:20 BDT" duration-ms="1024" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="iPhone14ProMaxCasesTestImproved()[pri:0, instance:testcases.SelectItemsFromMenuTest@19e4fcac]" started-at="2023-06-07T10:44:20 BDT" name="iPhone14ProMaxCasesTestImproved" description="Select Items From Menu Test" finished-at="2023-06-07T10:44:53 BDT" duration-ms="33102" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [https://gadgetandgear.com/category/iphone-14-pro-max] but found [https://gadgetandgear.com/]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [https://gadgetandgear.com/category/iphone-14-pro-max] but found [https://gadgetandgear.com/]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1577)
+at org.testng.Assert.assertEqualsImpl(Assert.java:149)
+at org.testng.Assert.assertEquals(Assert.java:131)
+at org.testng.Assert.assertEquals(Assert.java:655)
+at org.testng.Assert.assertEquals(Assert.java:665)
+at testcases.SelectItemsFromMenuTest.iPhone14ProMaxCasesTestImproved(SelectItemsFromMenuTest.java:32)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iPhone14ProMaxCasesTestImproved -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:testcases.SelectItemsFromMenuTest@19e4fcac]" started-at="2023-06-07T10:44:26 BDT" name="quitBrowser" finished-at="2023-06-07T10:44:26 BDT" duration-ms="209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:testcases.SelectItemsFromMenuTest@19e4fcac]" started-at="2023-06-07T10:44:53 BDT" name="quitBrowser" finished-at="2023-06-07T10:44:53 BDT" duration-ms="240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- testcases.SelectItemsFromMenuTest -->
+      <class name="testcases.SearchResultPageTest">
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:testcases.SearchResultPageTest@2766ca9d]" started-at="2023-06-07T10:45:16 BDT" name="setBrowser" finished-at="2023-06-07T10:45:17 BDT" duration-ms="947" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="isProductAvailable()[pri:0, instance:testcases.SearchResultPageTest@2766ca9d]" started-at="2023-06-07T10:45:17 BDT" name="isProductAvailable" finished-at="2023-06-07T10:45:26 BDT" duration-ms="9314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isProductAvailable -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:testcases.SearchResultPageTest@2766ca9d]" started-at="2023-06-07T10:45:26 BDT" name="quitBrowser" finished-at="2023-06-07T10:45:26 BDT" duration-ms="190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- testcases.SearchResultPageTest -->
+      <class name="testcases.MyAccountPageTest">
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:testcases.MyAccountPageTest@21fd5faa]" started-at="2023-06-07T10:44:53 BDT" name="setBrowser" finished-at="2023-06-07T10:44:54 BDT" duration-ms="934" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="validateDashboard()[pri:0, instance:testcases.MyAccountPageTest@21fd5faa]" started-at="2023-06-07T10:44:54 BDT" name="validateDashboard" finished-at="2023-06-07T10:45:16 BDT" duration-ms="21652" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='myaccount-dropdown']/a[1]"}
+  (Session info: chrome=114.0.5735.110)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.9.1', revision: 'eb2032df7f'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c28d59b077974af3bba65efdc36f4ee5, findElement {using=xpath, value=//div[@class='myaccount-dropdown']/a[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.110, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\Asus\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:49746}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49746/devtoo..., se:cdpVersion: 114.0.5735.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c28d59b077974af3bba65efdc36f4ee5]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='myaccount-dropdown']/a[1]"}
+  (Session info: chrome=114.0.5735.110)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.9.1', revision: 'eb2032df7f'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c28d59b077974af3bba65efdc36f4ee5, findElement {using=xpath, value=//div[@class='myaccount-dropdown']/a[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.110, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\Asus\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:49746}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49746/devtoo..., se:cdpVersion: 114.0.5735.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c28d59b077974af3bba65efdc36f4ee5
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:193)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:183)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:158)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+at pages.BasePage.getElement(BasePage.java:20)
+at pages.BasePage.clickOnElement(BasePage.java:33)
+at testcases.MyAccountPageTest.validateDashboard(MyAccountPageTest.java:29)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDashboard -->
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:testcases.MyAccountPageTest@21fd5faa]" started-at="2023-06-07T10:45:10 BDT" name="setBrowser" finished-at="2023-06-07T10:45:11 BDT" duration-ms="945" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="validateMyCoupons()[pri:0, instance:testcases.MyAccountPageTest@21fd5faa]" started-at="2023-06-07T10:45:11 BDT" name="validateMyCoupons" finished-at="2023-06-07T10:45:36 BDT" duration-ms="25479" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMyCoupons -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:testcases.MyAccountPageTest@21fd5faa]" started-at="2023-06-07T10:45:16 BDT" name="quitBrowser" finished-at="2023-06-07T10:45:16 BDT" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:testcases.MyAccountPageTest@21fd5faa]" started-at="2023-06-07T10:45:36 BDT" name="quitBrowser" finished-at="2023-06-07T10:45:37 BDT" duration-ms="190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- testcases.MyAccountPageTest -->
+      <class name="testcases.CartPageTest">
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:testcases.CartPageTest@336f1079]" started-at="2023-06-07T10:44:01 BDT" name="setBrowser" finished-at="2023-06-07T10:44:02 BDT" duration-ms="994" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="SubTotalTest()[pri:0, instance:testcases.CartPageTest@336f1079]" started-at="2023-06-07T10:44:02 BDT" name="SubTotalTest" finished-at="2023-06-07T10:44:13 BDT" duration-ms="11111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubTotalTest -->
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:testcases.CartPageTest@336f1079]" started-at="2023-06-07T10:44:06 BDT" name="setBrowser" finished-at="2023-06-07T10:44:07 BDT" duration-ms="912" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="cartPageTest()[pri:0, instance:testcases.CartPageTest@336f1079]" started-at="2023-06-07T10:44:07 BDT" name="cartPageTest" finished-at="2023-06-07T10:44:19 BDT" duration-ms="12019" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cartPageTest -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:testcases.CartPageTest@336f1079]" started-at="2023-06-07T10:44:13 BDT" name="quitBrowser" finished-at="2023-06-07T10:44:13 BDT" duration-ms="272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:testcases.CartPageTest@336f1079]" started-at="2023-06-07T10:44:19 BDT" name="quitBrowser" finished-at="2023-06-07T10:44:19 BDT" duration-ms="212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- testcases.CartPageTest -->
+      <class name="testcases.LoginPageTest">
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:testcases.LoginPageTest@5460cf3a]" started-at="2023-06-07T10:45:26 BDT" name="setBrowser" finished-at="2023-06-07T10:45:27 BDT" duration-ms="966" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="signInManuallyInvalidCredentials(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.LoginPageTest@5460cf3a]" started-at="2023-06-07T10:45:27 BDT" name="signInManuallyInvalidCredentials" description="sign In Manually with inValid Credentials" data-provider="invalidCredentials" finished-at="2023-06-07T10:48:38 BDT" duration-ms="190115" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[taufiqrahaman@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[         ]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid credentials provided.]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[java.util.concurrent.TimeoutException
+Build info: version: '4.9.1', revision: 'eb2032df7f'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [674dde28ecd12723163b909cfce50727, clickElement {id=DB8656D53F616FAC8F4FE13F605EFA17_element_998}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.110, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\Asus\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:49920}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49920/devtoo..., se:cdpVersion: 114.0.5735.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (674dde28ecd12723163b909cfce50727)] -> xpath: //button[contains(text(),'Sign In')]]
+Session ID: 674dde28ecd12723163b909cfce50727]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: java.util.concurrent.TimeoutException
+Build info: version: '4.9.1', revision: 'eb2032df7f'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [674dde28ecd12723163b909cfce50727, clickElement {id=DB8656D53F616FAC8F4FE13F605EFA17_element_998}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.110, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\Asus\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:49920}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49920/devtoo..., se:cdpVersion: 114.0.5735.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (674dde28ecd12723163b909cfce50727)] -> xpath: //button[contains(text(),'Sign In')]]
+Session ID: 674dde28ecd12723163b909cfce50727
+at org.openqa.selenium.remote.http.netty.NettyHttpHandler.makeCall(NettyHttpHandler.java:65)
+at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42)
+at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:56)
+at org.openqa.selenium.remote.http.netty.NettyHttpHandler.execute(NettyHttpHandler.java:49)
+at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42)
+at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:56)
+at org.openqa.selenium.remote.http.netty.NettyClient.execute(NettyClient.java:99)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:183)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:158)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:257)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:78)
+at pages.BasePage.clickOnElement(BasePage.java:33)
+at testcases.LoginPageTest.signInManuallyInvalidCredentials(LoginPageTest.java:42)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.util.concurrent.TimeoutException
+at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+at org.asynchttpclient.netty.NettyResponseFuture.get(NettyResponseFuture.java:206)
+at org.openqa.selenium.remote.http.netty.NettyHttpHandler.makeCall(NettyHttpHandler.java:59)
+... 29 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInManuallyInvalidCredentials -->
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:testcases.LoginPageTest@5460cf3a]" started-at="2023-06-07T10:45:37 BDT" name="setBrowser" finished-at="2023-06-07T10:45:38 BDT" duration-ms="961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="signInManuallyInvalidEmail(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.LoginPageTest@5460cf3a]" started-at="2023-06-07T10:45:38 BDT" name="signInManuallyInvalidEmail" description="sign In Manually with inValid Credentials" data-provider="invalidCredentialEmail" finished-at="2023-06-07T10:45:53 BDT" duration-ms="15762" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ ......7]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[can't be blank]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInManuallyInvalidEmail -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:testcases.LoginPageTest@5460cf3a]" started-at="2023-06-07T10:45:53 BDT" name="quitBrowser" finished-at="2023-06-07T10:45:54 BDT" duration-ms="245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:testcases.LoginPageTest@5460cf3a]" started-at="2023-06-07T10:45:54 BDT" name="setBrowser" finished-at="2023-06-07T10:45:54 BDT" duration-ms="887" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="signInManuallyInvalidEmail(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.LoginPageTest@5460cf3a]" started-at="2023-06-07T10:45:54 BDT" name="signInManuallyInvalidEmail" description="sign In Manually with inValid Credentials" data-provider="invalidCredentialEmail" finished-at="2023-06-07T10:46:13 BDT" duration-ms="18985" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[qwerty]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ ......7]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[is not a valid email]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInManuallyInvalidEmail -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:testcases.LoginPageTest@5460cf3a]" started-at="2023-06-07T10:46:13 BDT" name="quitBrowser" finished-at="2023-06-07T10:46:14 BDT" duration-ms="265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:testcases.LoginPageTest@5460cf3a]" started-at="2023-06-07T10:46:14 BDT" name="setBrowser" finished-at="2023-06-07T10:46:15 BDT" duration-ms="905" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="signInManuallyInvalidEmail(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.LoginPageTest@5460cf3a]" started-at="2023-06-07T10:46:15 BDT" name="signInManuallyInvalidEmail" description="sign In Manually with inValid Credentials" data-provider="invalidCredentialEmail" finished-at="2023-06-07T10:46:34 BDT" duration-ms="19360" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[     ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ ......7]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[is not a valid email]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInManuallyInvalidEmail -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:testcases.LoginPageTest@5460cf3a]" started-at="2023-06-07T10:46:34 BDT" name="quitBrowser" finished-at="2023-06-07T10:46:34 BDT" duration-ms="247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:testcases.LoginPageTest@5460cf3a]" started-at="2023-06-07T10:46:34 BDT" name="setBrowser" finished-at="2023-06-07T10:46:35 BDT" duration-ms="899" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="signInManuallyInvalidEmail(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.LoginPageTest@5460cf3a]" started-at="2023-06-07T10:46:35 BDT" name="signInManuallyInvalidEmail" description="sign In Manually with inValid Credentials" data-provider="invalidCredentialEmail" finished-at="2023-06-07T10:46:50 BDT" duration-ms="14758" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[qwerty@gmail.]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ ......7]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[is not a valid email]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInManuallyInvalidEmail -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:testcases.LoginPageTest@5460cf3a]" started-at="2023-06-07T10:46:50 BDT" name="quitBrowser" finished-at="2023-06-07T10:46:50 BDT" duration-ms="279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:testcases.LoginPageTest@5460cf3a]" started-at="2023-06-07T10:46:50 BDT" name="setBrowser" finished-at="2023-06-07T10:46:51 BDT" duration-ms="853" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="signInManuallyInvalidEmail(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.LoginPageTest@5460cf3a]" started-at="2023-06-07T10:46:51 BDT" name="signInManuallyInvalidEmail" description="sign In Manually with inValid Credentials" data-provider="invalidCredentialEmail" finished-at="2023-06-07T10:47:06 BDT" duration-ms="14616" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[qwerty@gma]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ ......7]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[is not a valid email]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInManuallyInvalidEmail -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:testcases.LoginPageTest@5460cf3a]" started-at="2023-06-07T10:47:06 BDT" name="quitBrowser" finished-at="2023-06-07T10:47:06 BDT" duration-ms="255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:testcases.LoginPageTest@5460cf3a]" started-at="2023-06-07T10:47:06 BDT" name="setBrowser" finished-at="2023-06-07T10:47:07 BDT" duration-ms="846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="signInManuallyInvalidEmail(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.LoginPageTest@5460cf3a]" started-at="2023-06-07T10:47:07 BDT" name="signInManuallyInvalidEmail" description="sign In Manually with inValid Credentials" data-provider="invalidCredentialEmail" finished-at="2023-06-07T10:47:21 BDT" duration-ms="14523" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[qwerty@]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456789]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[is not a valid email]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInManuallyInvalidEmail -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:testcases.LoginPageTest@5460cf3a]" started-at="2023-06-07T10:47:21 BDT" name="quitBrowser" finished-at="2023-06-07T10:47:22 BDT" duration-ms="244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:testcases.LoginPageTest@5460cf3a]" started-at="2023-06-07T10:47:22 BDT" name="setBrowser" finished-at="2023-06-07T10:47:22 BDT" duration-ms="886" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="signInManuallyInvalidEmail(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.LoginPageTest@5460cf3a]" started-at="2023-06-07T10:47:22 BDT" name="signInManuallyInvalidEmail" description="sign In Manually with inValid Credentials" data-provider="invalidCredentialEmail" finished-at="2023-06-07T10:47:37 BDT" duration-ms="14688" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[qwerty@gmail]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ abc@c.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[is not a valid email]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInManuallyInvalidEmail -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:testcases.LoginPageTest@5460cf3a]" started-at="2023-06-07T10:47:37 BDT" name="quitBrowser" finished-at="2023-06-07T10:47:37 BDT" duration-ms="230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:testcases.LoginPageTest@5460cf3a]" started-at="2023-06-07T10:47:37 BDT" name="setBrowser" finished-at="2023-06-07T10:47:38 BDT" duration-ms="809" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="signInManuallyInvalidPassword(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.LoginPageTest@5460cf3a]" started-at="2023-06-07T10:47:38 BDT" name="signInManuallyInvalidPassword" description="sign In Manually with inValid Credentials" data-provider="invalidCredentialPassword" finished-at="2023-06-07T10:47:54 BDT" duration-ms="15680" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[qwerty@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[can't be blank]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInManuallyInvalidPassword -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:testcases.LoginPageTest@5460cf3a]" started-at="2023-06-07T10:47:54 BDT" name="quitBrowser" finished-at="2023-06-07T10:47:54 BDT" duration-ms="225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:testcases.LoginPageTest@5460cf3a]" started-at="2023-06-07T10:47:54 BDT" name="setBrowser" finished-at="2023-06-07T10:47:55 BDT" duration-ms="828" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="signInManuallyInvalidPassword(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.LoginPageTest@5460cf3a]" started-at="2023-06-07T10:47:55 BDT" name="signInManuallyInvalidPassword" description="sign In Manually with inValid Credentials" data-provider="invalidCredentialPassword" finished-at="2023-06-07T10:48:10 BDT" duration-ms="14823" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[qwerty@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[q]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Must be at least 6 characters]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInManuallyInvalidPassword -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:testcases.LoginPageTest@5460cf3a]" started-at="2023-06-07T10:48:10 BDT" name="quitBrowser" finished-at="2023-06-07T10:48:10 BDT" duration-ms="250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:testcases.LoginPageTest@5460cf3a]" started-at="2023-06-07T10:48:10 BDT" name="setBrowser" finished-at="2023-06-07T10:48:11 BDT" duration-ms="824" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="signInManuallyValidCredentials()[pri:0, instance:testcases.LoginPageTest@5460cf3a]" started-at="2023-06-07T10:48:11 BDT" name="signInManuallyValidCredentials" description="sign In Manually with Valid Credentials" finished-at="2023-06-07T10:48:29 BDT" duration-ms="18036" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInManuallyValidCredentials -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:testcases.LoginPageTest@5460cf3a]" started-at="2023-06-07T10:48:29 BDT" name="quitBrowser" finished-at="2023-06-07T10:48:29 BDT" duration-ms="236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:testcases.LoginPageTest@5460cf3a]" started-at="2023-06-07T10:48:29 BDT" name="setBrowser" finished-at="2023-06-07T10:48:30 BDT" duration-ms="853" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="signInWithGoogle()[pri:0, instance:testcases.LoginPageTest@5460cf3a]" started-at="2023-06-07T10:48:30 BDT" name="signInWithGoogle" description="sign In Manually with inValid Credentials" finished-at="2023-06-07T10:48:56 BDT" duration-ms="25941" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInWithGoogle -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:testcases.LoginPageTest@5460cf3a]" started-at="2023-06-07T10:48:38 BDT" name="quitBrowser" finished-at="2023-06-07T10:49:03 BDT" duration-ms="25033" status="FAIL">
+          <exception class="org.openqa.selenium.WebDriverException">
+            <message>
+              <![CDATA[Timed out waiting for driver server to stop.
+Build info: version: '4.9.1', revision: 'eb2032df7f'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [674dde28ecd12723163b909cfce50727, quit {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.110, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\Asus\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:49920}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49920/devtoo..., se:cdpVersion: 114.0.5735.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 674dde28ecd12723163b909cfce50727]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.WebDriverException: Timed out waiting for driver server to stop.
+Build info: version: '4.9.1', revision: 'eb2032df7f'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [674dde28ecd12723163b909cfce50727, quit {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.110, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\Asus\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:49920}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49920/devtoo..., se:cdpVersion: 114.0.5735.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 674dde28ecd12723163b909cfce50727
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:148)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:598)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+at org.openqa.selenium.remote.RemoteWebDriver.quit(RemoteWebDriver.java:445)
+at org.openqa.selenium.chromium.ChromiumDriver.quit(ChromiumDriver.java:279)
+at utilities.DriverSetup.quitBrowser(DriverSetup.java:54)
+at jdk.internal.reflect.GeneratedMethodAccessor48.invoke(Unknown Source)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:361)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:296)
+at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:823)
+at org.testng.internal.invokers.TestInvoker.runAfterConfigurations(TestInvoker.java:792)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:768)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.util.concurrent.ExecutionException: org.openqa.selenium.TimeoutException: Process timed out after waiting for 20000 ms.
+Build info: version: '4.9.1', revision: 'eb2032df7f'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: driver.version: unknown
+at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:396)
+at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:144)
+... 25 more
+Caused by: org.openqa.selenium.TimeoutException: Process timed out after waiting for 20000 ms.
+Build info: version: '4.9.1', revision: 'eb2032df7f'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: driver.version: unknown
+at org.openqa.selenium.os.OsProcess.waitFor(OsProcess.java:181)
+at org.openqa.selenium.os.CommandLine.waitFor(CommandLine.java:119)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.lambda$execute$2(DriverCommandExecutor.java:138)
+at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+... 3 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.WebDriverException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:testcases.LoginPageTest@5460cf3a]" started-at="2023-06-07T10:48:56 BDT" name="quitBrowser" finished-at="2023-06-07T10:49:03 BDT" duration-ms="7057" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:testcases.LoginPageTest@5460cf3a]" started-at="2023-06-07T10:49:03 BDT" name="setBrowser" finished-at="2023-06-07T10:49:03 BDT" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="signInManuallyInvalidCredentials(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.LoginPageTest@5460cf3a]" started-at="2023-06-07T10:49:03 BDT" name="signInManuallyInvalidCredentials" description="sign In Manually with inValid Credentials" data-provider="invalidCredentials" finished-at="2023-06-07T10:49:03 BDT" duration-ms="1" status="SKIP">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[taufi@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456taufiq]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid credentials provided.]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.WebDriverException">
+            <message>
+              <![CDATA[Timed out waiting for driver server to stop.
+Build info: version: '4.9.1', revision: 'eb2032df7f'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [674dde28ecd12723163b909cfce50727, quit {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.110, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\Asus\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:49920}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49920/devtoo..., se:cdpVersion: 114.0.5735.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 674dde28ecd12723163b909cfce50727]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.WebDriverException: Timed out waiting for driver server to stop.
+Build info: version: '4.9.1', revision: 'eb2032df7f'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [674dde28ecd12723163b909cfce50727, quit {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.110, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\Asus\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:49920}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49920/devtoo..., se:cdpVersion: 114.0.5735.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 674dde28ecd12723163b909cfce50727
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:148)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:598)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+at org.openqa.selenium.remote.RemoteWebDriver.quit(RemoteWebDriver.java:445)
+at org.openqa.selenium.chromium.ChromiumDriver.quit(ChromiumDriver.java:279)
+at utilities.DriverSetup.quitBrowser(DriverSetup.java:54)
+at jdk.internal.reflect.GeneratedMethodAccessor48.invoke(Unknown Source)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:361)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:296)
+at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:823)
+at org.testng.internal.invokers.TestInvoker.runAfterConfigurations(TestInvoker.java:792)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:768)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.util.concurrent.ExecutionException: org.openqa.selenium.TimeoutException: Process timed out after waiting for 20000 ms.
+Build info: version: '4.9.1', revision: 'eb2032df7f'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: driver.version: unknown
+at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:396)
+at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:144)
+... 25 more
+Caused by: org.openqa.selenium.TimeoutException: Process timed out after waiting for 20000 ms.
+Build info: version: '4.9.1', revision: 'eb2032df7f'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: driver.version: unknown
+at org.openqa.selenium.os.OsProcess.waitFor(OsProcess.java:181)
+at org.openqa.selenium.os.CommandLine.waitFor(CommandLine.java:119)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.lambda$execute$2(DriverCommandExecutor.java:138)
+at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+... 3 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.WebDriverException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInManuallyInvalidCredentials -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:testcases.LoginPageTest@5460cf3a]" started-at="2023-06-07T10:49:03 BDT" name="quitBrowser" finished-at="2023-06-07T10:49:03 BDT" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:testcases.LoginPageTest@5460cf3a]" started-at="2023-06-07T10:49:03 BDT" name="setBrowser" finished-at="2023-06-07T10:49:03 BDT" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="signInManuallyInvalidCredentials(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.LoginPageTest@5460cf3a]" started-at="2023-06-07T10:49:03 BDT" name="signInManuallyInvalidCredentials" description="sign In Manually with inValid Credentials" data-provider="invalidCredentials" finished-at="2023-06-07T10:49:03 BDT" duration-ms="0" status="SKIP">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[taufiqrahaman@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qwertye]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid credentials provided.]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.WebDriverException">
+            <message>
+              <![CDATA[Timed out waiting for driver server to stop.
+Build info: version: '4.9.1', revision: 'eb2032df7f'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [674dde28ecd12723163b909cfce50727, quit {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.110, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\Asus\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:49920}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49920/devtoo..., se:cdpVersion: 114.0.5735.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 674dde28ecd12723163b909cfce50727]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.WebDriverException: Timed out waiting for driver server to stop.
+Build info: version: '4.9.1', revision: 'eb2032df7f'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [674dde28ecd12723163b909cfce50727, quit {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.110, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\Asus\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:49920}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49920/devtoo..., se:cdpVersion: 114.0.5735.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 674dde28ecd12723163b909cfce50727
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:148)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:598)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+at org.openqa.selenium.remote.RemoteWebDriver.quit(RemoteWebDriver.java:445)
+at org.openqa.selenium.chromium.ChromiumDriver.quit(ChromiumDriver.java:279)
+at utilities.DriverSetup.quitBrowser(DriverSetup.java:54)
+at jdk.internal.reflect.GeneratedMethodAccessor48.invoke(Unknown Source)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:361)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:296)
+at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:823)
+at org.testng.internal.invokers.TestInvoker.runAfterConfigurations(TestInvoker.java:792)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:768)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.util.concurrent.ExecutionException: org.openqa.selenium.TimeoutException: Process timed out after waiting for 20000 ms.
+Build info: version: '4.9.1', revision: 'eb2032df7f'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: driver.version: unknown
+at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:396)
+at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:144)
+... 25 more
+Caused by: org.openqa.selenium.TimeoutException: Process timed out after waiting for 20000 ms.
+Build info: version: '4.9.1', revision: 'eb2032df7f'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: driver.version: unknown
+at org.openqa.selenium.os.OsProcess.waitFor(OsProcess.java:181)
+at org.openqa.selenium.os.CommandLine.waitFor(CommandLine.java:119)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.lambda$execute$2(DriverCommandExecutor.java:138)
+at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+... 3 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.WebDriverException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInManuallyInvalidCredentials -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:testcases.LoginPageTest@5460cf3a]" started-at="2023-06-07T10:49:03 BDT" name="quitBrowser" finished-at="2023-06-07T10:49:03 BDT" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:testcases.LoginPageTest@5460cf3a]" started-at="2023-06-07T10:49:03 BDT" name="setBrowser" finished-at="2023-06-07T10:49:03 BDT" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="signInManuallyInvalidCredentials(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.LoginPageTest@5460cf3a]" started-at="2023-06-07T10:49:03 BDT" name="signInManuallyInvalidCredentials" description="sign In Manually with inValid Credentials" data-provider="invalidCredentials" finished-at="2023-06-07T10:49:03 BDT" duration-ms="0" status="SKIP">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[taufiqrahman@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qwertye]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid credentials provided.]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.WebDriverException">
+            <message>
+              <![CDATA[Timed out waiting for driver server to stop.
+Build info: version: '4.9.1', revision: 'eb2032df7f'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [674dde28ecd12723163b909cfce50727, quit {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.110, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\Asus\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:49920}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49920/devtoo..., se:cdpVersion: 114.0.5735.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 674dde28ecd12723163b909cfce50727]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.WebDriverException: Timed out waiting for driver server to stop.
+Build info: version: '4.9.1', revision: 'eb2032df7f'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [674dde28ecd12723163b909cfce50727, quit {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.110, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\Asus\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:49920}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49920/devtoo..., se:cdpVersion: 114.0.5735.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 674dde28ecd12723163b909cfce50727
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:148)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:598)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+at org.openqa.selenium.remote.RemoteWebDriver.quit(RemoteWebDriver.java:445)
+at org.openqa.selenium.chromium.ChromiumDriver.quit(ChromiumDriver.java:279)
+at utilities.DriverSetup.quitBrowser(DriverSetup.java:54)
+at jdk.internal.reflect.GeneratedMethodAccessor48.invoke(Unknown Source)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:361)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:296)
+at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:823)
+at org.testng.internal.invokers.TestInvoker.runAfterConfigurations(TestInvoker.java:792)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:768)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.util.concurrent.ExecutionException: org.openqa.selenium.TimeoutException: Process timed out after waiting for 20000 ms.
+Build info: version: '4.9.1', revision: 'eb2032df7f'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: driver.version: unknown
+at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:396)
+at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:144)
+... 25 more
+Caused by: org.openqa.selenium.TimeoutException: Process timed out after waiting for 20000 ms.
+Build info: version: '4.9.1', revision: 'eb2032df7f'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: driver.version: unknown
+at org.openqa.selenium.os.OsProcess.waitFor(OsProcess.java:181)
+at org.openqa.selenium.os.CommandLine.waitFor(CommandLine.java:119)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.lambda$execute$2(DriverCommandExecutor.java:138)
+at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+... 3 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.WebDriverException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInManuallyInvalidCredentials -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:testcases.LoginPageTest@5460cf3a]" started-at="2023-06-07T10:49:03 BDT" name="quitBrowser" finished-at="2023-06-07T10:49:03 BDT" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- testcases.LoginPageTest -->
+      <class name="testcases.EndToEndTest">
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:testcases.EndToEndTest@4b79ac84]" started-at="2023-06-07T10:44:41 BDT" name="setBrowser" finished-at="2023-06-07T10:44:42 BDT" duration-ms="959" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="endToendTest()[pri:0, instance:testcases.EndToEndTest@4b79ac84]" started-at="2023-06-07T10:44:42 BDT" name="endToendTest" finished-at="2023-06-07T10:45:10 BDT" duration-ms="27426" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endToendTest -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:testcases.EndToEndTest@4b79ac84]" started-at="2023-06-07T10:45:10 BDT" name="quitBrowser" finished-at="2023-06-07T10:45:10 BDT" duration-ms="296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- testcases.EndToEndTest -->
+      <class name="testcases.SignUpPageTest">
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:testcases.SignUpPageTest@55493582]" started-at="2023-06-07T10:43:12 BDT" name="setBrowser" finished-at="2023-06-07T10:43:13 BDT" duration-ms="921" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="signUpManually()[pri:0, instance:testcases.SignUpPageTest@55493582]" started-at="2023-06-07T10:43:13 BDT" name="signUpManually" description="sign Up Manually test" finished-at="2023-06-07T10:43:24 BDT" duration-ms="11222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUpManually -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:testcases.SignUpPageTest@55493582]" started-at="2023-06-07T10:43:24 BDT" name="quitBrowser" finished-at="2023-06-07T10:43:24 BDT" duration-ms="340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- testcases.SignUpPageTest -->
+      <class name="testcases.CheckoutPageTest">
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:testcases.CheckoutPageTest@4426bff1]" started-at="2023-06-07T10:42:57 BDT" name="setBrowser" finished-at="2023-06-07T10:43:00 BDT" duration-ms="3129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="checkoutPageTest()[pri:0, instance:testcases.CheckoutPageTest@4426bff1]" started-at="2023-06-07T10:43:00 BDT" name="checkoutPageTest" finished-at="2023-06-07T10:43:38 BDT" duration-ms="37930" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutPageTest -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:testcases.CheckoutPageTest@4426bff1]" started-at="2023-06-07T10:43:38 BDT" name="quitBrowser" finished-at="2023-06-07T10:43:39 BDT" duration-ms="247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- testcases.CheckoutPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

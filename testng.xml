@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="2" parallel="methods" name="Suite">
+  <test thread-count="2" parallel="methods" name="Test">
+    <classes>
+      <class name="testcases.AddToCartPageTest"/>
+      <class name="testcases.CheckoutPageTest"/>
+      <class name="testcases.SignUpPageTest"/>
+      <class name="testcases.HomePageTest"/>
+      <class name="testcases.CartPageTest"/>
+      <class name="testcases.SelectItemsFromMenuTest"/>
+      <class name="testcases.FilterTest"/>
+      <class name="testcases.EndToEndTest"/>
+      <class name="testcases.MyAccountPageTest"/>
+      <class name="testcases.SearchResultPageTest"/>
+      <class name="testcases.LoginPageTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
