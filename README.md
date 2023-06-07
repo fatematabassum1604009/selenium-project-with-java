@@ -15,9 +15,9 @@ This repository contains an example of how to build a selenium project using POM
 ---
 
 ## Reports
-* To view report of test, access the file: *[/allure-report/index.html](https://fatematabassum1604009.github.io/selenium-project-with-java/allure-report/index.html)*
-
+* To view report of test: *[/allure-report/index.html](https://fatematabassum1604009.github.io/selenium-project-with-java/allure-report/index.html)*
 ---
+
 ## Installation
 ### Clone
 
