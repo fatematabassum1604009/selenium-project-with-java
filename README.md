@@ -1,5 +1,5 @@
 # selenium-project-with-java
-This repository contains an example of how to build a selenium project with java on the website [Gadget & Gear](https://gadgetandgear.com/).
+This repository contains an example of how to build a selenium project using POM(Page Object Model) with java on the website [Gadget & Gear](https://gadgetandgear.com/).
 
 ## Technologies:
 - Selenium WebDriver
@@ -23,27 +23,23 @@ This repository contains an example of how to build a selenium project with java
 
 - Clone this repository to your local machine using the command below:
 ```
-	$ git clone https://github.com/willysalazar/selenium-webdriver-java-example.git
+	$ git clone https://github.com/fatematabassum1604009/selenium-project-with-java.git
 ```
 
 ---
 
 ### Execution
 
-> Access project root
 
-```
-	$ cd /diretorio/selenium-webdriver-java-example
-```
 > Execute the command to run all tests in the project
 
 ```
-	$ mvn clean test
+	$ mvn test
 ```
 > Execute the command to run only one test class in the project
 
 ```
-	$ mvn clean test -Dtest=<WelcomeTest>
+	$ mvn test -DtestFileName=LoginPageTest.java>
 ```
 
 ---
