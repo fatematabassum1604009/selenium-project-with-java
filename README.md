@@ -12,4 +12,10 @@ This repository contains an example of how to build a selenium project with java
 * webdrivermanager 
 * testng
 * allure-testng
+---
+
+## Reports
+* To view report of test, access the file: */target/report/test_execution.html*
+
+---
 
