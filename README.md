@@ -9,10 +9,9 @@ This repository contains an example of how to build a selenium project with java
 
 ### Dependencies
 * *[selenium-java](https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java)*
-* webdrivermanager 
-* testng
-* allure-testng
-* *[selenium-java](https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java)* 
+* *[webdrivermanager](https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager)* 
+* *[testng](https://mvnrepository.com/artifact/org.testng/testng)*
+* *[allure-testng](https://mvnrepository.com/artifact/io.qameta.allure/allure-testng)* 
 ---
 
 ## Reports
