@@ -39,7 +39,7 @@ This repository contains an example of how to build a selenium project using POM
 > Execute the command to run only one test class in the project
 
 ```
-	$ mvn test -DtestFileName=LoginPageTest.java>
+	$ mvn test -DtestFileName=LoginPageTest.java
 ```
 
 ---
